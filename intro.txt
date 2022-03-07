@@ -7,3 +7,4 @@
 &h_games=Optimized for Games and DVDs
 &h_help=Better Help for Every Task
 &h_mobile=On the Road and Around the World
+&h_networks=Networks: Powerful and Practical
