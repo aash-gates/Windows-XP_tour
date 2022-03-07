@@ -14,3 +14,4 @@
 &ss_text3=Taskbar
 &ss_text4=Start Menu
 &ss_text5=Files and Folders
+&ss_text6=Windows
