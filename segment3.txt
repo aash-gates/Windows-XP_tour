@@ -9,3 +9,4 @@
 &h_networks=Networks: Powerful and Practical
 &h_safety=Data Protection, Inside and Out
 &h_users=Multiple Users: A Cinch to Switch
+&h_wizard=Let the Wizard do the Work
