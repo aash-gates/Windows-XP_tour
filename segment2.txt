@@ -9,3 +9,4 @@
 &ss_text3=Optimized for Games and DVDs
 &h_games=Optimized for Games and DVDs
 &h_photoSharing=Built-in Photo Sharing and Organization
+&h_playingMusic=Playing Music, Video, CDs
