@@ -8,3 +8,4 @@
 &h_dependability=Robust, Reliable, Compatible
 &h_mobile=On the Road and Around the World
 &h_secure=More Secure, Easier to Manage
+&t_clickToReplay=Click to Replay
