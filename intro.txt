@@ -6,3 +6,4 @@
 &h_design=Easier to Learn and Use
 &h_games=Optimized for Games and DVDs
 &h_help=Better Help for Every Task
+&h_mobile=On the Road and Around the World
