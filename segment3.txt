@@ -12,3 +12,4 @@
 &h_wizard=Let the Wizard do the Work
 &t_clickToReplay=Click to Replay
 &t_attractLoop=To continue the Tour, click an icon.
+&t_articleRef=For more information: <BR>Click Start, click Help and Support, and type 'walkthroughs' in the Search box.
