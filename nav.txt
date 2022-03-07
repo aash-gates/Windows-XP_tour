@@ -6,3 +6,4 @@
 &h_Segment4=Best for Business
 &t_close=Exit Tour
 &t_musicOff=Music Off
+&t_musicOn=Music On
