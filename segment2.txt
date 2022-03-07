@@ -7,3 +7,4 @@
 &ss_text1=Built-in Photo Sharing
 &ss_text2=Playing Music, Videos, CDs
 &ss_text3=Optimized for Games and DVDs
+&h_games=Optimized for Games and DVDs
