@@ -11,3 +11,4 @@
 &h_users=Multiple Users: A Cinch to Switch
 &h_wizard=Let the Wizard do the Work
 &t_clickToReplay=Click to Replay
+&t_attractLoop=To continue the Tour, click an icon.
