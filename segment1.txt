@@ -3,3 +3,4 @@
 &h_Segment3=The Connected Home and Office
 &h_Segment4=Best for Business
 &t_helpSupport=Visit the Help and Support Center
+&t_helpUpdate=Learn more about Windows Update 
