@@ -11,3 +11,4 @@
 &t_windowsBasics=Get help about Windows basics
 &ss_text1=The Windows Desktop
 &ss_text2=Icons
+&ss_text3=Taskbar
