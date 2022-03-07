@@ -12,3 +12,4 @@
 &h_playingMusic=Easier to Learn and Use
 &h_powered=Faster, Smarter, Safer
 &h_safety=Data Protection, Inside and Out
+&h_secure=More secure, Easier to Manage
