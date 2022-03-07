@@ -14,3 +14,4 @@
 &h_safety=Data Protection, Inside and Out
 &h_secure=More secure, Easier to Manage
 &h_users=Multiple Users: A Cinch to Switch
+&h_wizard=Let the Wizard do the Work
