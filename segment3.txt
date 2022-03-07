@@ -2,3 +2,4 @@
 &h_Segment2=Unlock the World of Digital Media
 &h_Segment3=The Connected Home and Office
 &h_Segment4=Best for Business
+&ss_text2=Networks: Powerful and Practical
