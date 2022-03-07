@@ -4,3 +4,4 @@
 &t_endingSession=Ending Your Session
 &t_filesFolders=Files and Folders
 &t_Icons=Icons
+&t_startMenu=Start Menu
