@@ -9,3 +9,4 @@
 &ss_text2=Easier to Learn and Use
 &ss_text3=Better Help for Every Task
 &h_games=Better Help for Every Task
+&h_photoSharing=Faster, Smarter, Safer
