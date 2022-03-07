@@ -9,3 +9,4 @@
 &t_musicOn=Music On
 &t_restartTour=Restart Tour
 &skipIntro=Skip Intro
+&t_attractLoopMain=To begin the Tour, click a button.
