@@ -6,3 +6,4 @@
 &ss_text2=On the Road and Around the World
 &ss_text3=More Secure, Easier to Manage
 &h_dependability=Robust, Reliable, Compatible
+&h_mobile=On the Road and Around the World
