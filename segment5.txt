@@ -7,3 +7,4 @@
 &t_startMenu=Start Menu
 &t_stepByStep=Take a Step by Step interactive tutorial of Windows XP
 &t_taskbar=Taskbar
+&t_windows=Windows
