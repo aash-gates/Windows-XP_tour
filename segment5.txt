@@ -2,3 +2,4 @@
 &t_controlPanel=Control Panel
 &t_desktop=Windows Desktop
 &t_endingSession=Ending Your Session
+&t_Icons=Icons
