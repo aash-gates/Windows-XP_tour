@@ -11,3 +11,4 @@
 &h_photoSharing=Built-in Photo Sharing and Organization
 &h_playingMusic=Easier to Learn and Use
 &h_powered=Faster, Smarter, Safer
+&h_safety=Data Protection, Inside and Out
