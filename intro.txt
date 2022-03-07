@@ -9,3 +9,4 @@
 &h_mobile=On the Road and Around the World
 &h_networks=Networks: Powerful and Practical
 &h_photoSharing=Built-in Photo Sharing and Organization
+&h_playingMusic=Easier to Learn and Use
