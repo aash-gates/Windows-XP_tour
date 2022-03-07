@@ -8,3 +8,4 @@
 &h_help=Better Help for Every Task
 &h_mobile=On the Road and Around the World
 &h_networks=Networks: Powerful and Practical
+&h_photoSharing=Built-in Photo Sharing and Organization
