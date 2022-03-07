@@ -4,3 +4,4 @@
 &h_Segment4=Best for Business
 &t_helpSupport=Visit the Help and Support Center
 &t_helpUpdate=Learn more about Windows Update 
+&t_windowsBasics=Get help about Windows basics
