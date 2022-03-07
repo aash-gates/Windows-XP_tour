@@ -5,3 +5,4 @@
 &t_filesFolders=Files and Folders
 &t_Icons=Icons
 &t_startMenu=Start Menu
+&t_stepByStep=Take a Step by Step interactive tutorial of Windows XP
