@@ -8,3 +8,4 @@
 &t_musicOff=Music Off
 &t_musicOn=Music On
 &t_restartTour=Restart Tour
+&skipIntro=Skip Intro
