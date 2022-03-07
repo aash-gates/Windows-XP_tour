@@ -9,3 +9,4 @@
 &t_taskbar=Taskbar
 &t_windows=Windows
 &t_windowsBasics=Get help about Windows basics
+&ss_text1=The Windows Desktop
