@@ -6,3 +6,4 @@
 &t_helpUpdate=Learn more about Windows Update 
 &t_windowsBasics=Get help about Windows basics
 &ss_text1=Faster, Smarter, Safer
+&ss_text2=Easier to Learn and Use
