@@ -11,3 +11,4 @@
 &h_photoSharing=Built-in Photo Sharing and Organization
 &h_playingMusic=Playing Music, Video, CDs
 &t_clickToReplay=Click to Replay
+&t_attractLoop=To continue the Tour, click an icon.
