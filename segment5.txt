@@ -1,3 +1,4 @@
 &t_asYouLikeIt=Read the article, As you like it about personalizing your computer
 &t_controlPanel=Control Panel
 &t_desktop=Windows Desktop
+&t_endingSession=Ending Your Session
