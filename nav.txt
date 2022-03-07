@@ -7,3 +7,4 @@
 &t_close=Exit Tour
 &t_musicOff=Music Off
 &t_musicOn=Music On
+&t_restartTour=Restart Tour
