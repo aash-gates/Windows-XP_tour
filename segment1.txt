@@ -7,3 +7,4 @@
 &t_windowsBasics=Get help about Windows basics
 &ss_text1=Faster, Smarter, Safer
 &ss_text2=Easier to Learn and Use
+&ss_text3=Better Help for Every Task
