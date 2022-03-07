@@ -4,3 +4,4 @@
 &h_Segment4=Best for Business
 &h_dependability=Robust, Reliable, Compatible
 &h_design=Easier to Learn and Use
+&h_games=Optimized for Games and DVDs
