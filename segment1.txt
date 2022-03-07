@@ -5,3 +5,4 @@
 &t_helpSupport=Visit the Help and Support Center
 &t_helpUpdate=Learn more about Windows Update 
 &t_windowsBasics=Get help about Windows basics
+&ss_text1=Faster, Smarter, Safer
