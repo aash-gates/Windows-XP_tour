@@ -5,3 +5,4 @@
 &ss_text1=Multiple Users: A Cinch to Switch
 &ss_text2=Networks: Powerful and Practical
 &ss_text3=Let the Wizard do the Work
+&ss_text4=Data Protection, Inside and Out
