@@ -12,3 +12,4 @@
 &h_photoSharing=Faster, Smarter, Safer
 &h_playingMusic=Easier to Learn and Use
 &t_clickToReplay=Click to Replay
+&t_attractLoop=To continue the Tour, click an icon.
