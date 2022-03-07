@@ -6,3 +6,4 @@
 &t_articlePicture=Read 'Put yourself in the Picture!' about digital photography
 &ss_text1=Built-in Photo Sharing
 &ss_text2=Playing Music, Videos, CDs
+&ss_text3=Optimized for Games and DVDs
