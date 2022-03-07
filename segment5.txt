@@ -19,3 +19,4 @@
 &ss_text8=Ending Your Session
 &t_Replay=Replay
 &t_attractLoop=To continue the Tour, click an icon.
+&t_articleRef=For more information: <BR>Click Start, click Help and Support, and type 'walkthroughs' in the Search box.
