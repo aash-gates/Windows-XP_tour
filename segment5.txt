@@ -17,3 +17,4 @@
 &ss_text6=Windows
 &ss_text7=Control Panel
 &ss_text8=Ending Your Session
+&t_Replay=Replay
