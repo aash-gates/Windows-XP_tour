@@ -16,3 +16,4 @@
 &ss_text5=Files and Folders
 &ss_text6=Windows
 &ss_text7=Control Panel
+&ss_text8=Ending Your Session
