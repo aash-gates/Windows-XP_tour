@@ -1,4 +1,4 @@
-# Windows XP Tour Repo
+# Windows XP Tour
 
 This repository contains the Windows XP Tour application, which is a guided tour of the features and capabilities of the Windows XP operating system. The tour is built using Macromedia Flash and can be run on any operating system that supports Flash.
 
